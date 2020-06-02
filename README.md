@@ -1,7 +1,7 @@
 
 
 __Note__: This project is under active development. 
-To generate a caption for any image in natural language, English. The architecture for the model is inspired from [1] by Vinyals et al. The module is built using [keras](https://keras.io/), the deep learning library. 
+To generate a caption for any image in natural language, English.  The module is built using [keras](https://keras.io/), the deep learning library. 
 
 This repository serves two purposes:
 - present/ discuss my model and results I obtained
